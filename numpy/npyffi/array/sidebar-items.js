@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ArrayType",""]],"fn":[["PyArray_Check",""],["PyArray_CheckExact",""]],"struct":[["PyArrayModule","Low-Level binding for Array API"]]});

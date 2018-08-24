@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["array","Safe interface for NumPy ndarray"],["convert","Defines conversion trait between rust types and numpy data types."],["error","Defines error types."],["npyffi","Low-Level bindings for NumPy C API."],["types","Implements conversion utitlities."]]});

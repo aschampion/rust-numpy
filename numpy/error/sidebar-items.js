@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ArrayCastError","Represents a casting error between rust types and numpy array."]],"trait":[["IntoPyErr",""],["IntoPyResult",""]]});
